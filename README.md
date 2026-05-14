@@ -127,7 +127,7 @@ DeepLearning-ImageClassifier/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DeepLearning-ImageClassifier.git
+git clone https://github.com/Lisbish2010/DeepLearning-ImageClassifier.git
 ```
 
 ```bash
