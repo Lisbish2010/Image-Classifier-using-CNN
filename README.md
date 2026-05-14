@@ -4,7 +4,7 @@ A deep learning based Image Classifier GUI Application built with TensorFlow, Op
 This project trains a Convolutional Neural Network (CNN) using the CIFAR-10 dataset and allows users to classify custom images through a modern desktop GUI.
 
 Inspired by clean and fun project presentations similar to classic game repositories like Mario projects.
-
+![Image Classifier using CNN](result.png)
 🚀 Features
 Train a CNN model on CIFAR-10 dataset
 User-friendly GUI built with Tkinter
@@ -105,4 +105,3 @@ Improve UI animations
 Export prediction reports
 🖼️ Screenshot
 
-Add your project screenshot here
